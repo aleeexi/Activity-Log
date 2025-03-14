@@ -1,0 +1,46 @@
+{
+    "all": [
+        {
+            "completion": false,
+            "cost": 0,
+            "inOrOut": true,
+            "name": "Watch T.V.",
+            "location": "Home",
+            "category": false
+        },
+        {
+            "completion": true,
+            "cost": 50,
+            "inOrOut": true,
+            "name": "Have dinner",
+            "location": "Joe Fortes",
+            "category": false
+        },
+        {
+            "completion": true,
+            "cost": 5,
+            "inOrOut": true,
+            "name": "Play DDR",
+            "location": "Metrotown",
+            "category": true
+        }
+    ],
+    "completed": [
+        {
+            "completion": true,
+            "cost": 50,
+            "inOrOut": true,
+            "name": "Have dinner",
+            "location": "Joe Fortes",
+            "category": false
+        },
+        {
+            "completion": true,
+            "cost": 5,
+            "inOrOut": true,
+            "name": "Play DDR",
+            "location": "Metrotown",
+            "category": true
+        }
+    ]
+}

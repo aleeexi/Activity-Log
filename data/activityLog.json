@@ -1,0 +1,11 @@
+{
+    "all": [{
+        "completion": false,
+        "cost": 0,
+        "inOrOut": true,
+        "name": "wotakoi",
+        "location": "home",
+        "category": false
+    }],
+    "completed": []
+}

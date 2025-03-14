@@ -1,0 +1,38 @@
+{
+    "all": [
+        {
+            "completion": true,
+            "cost": 0,
+            "inOrOut": true,
+            "name": "Watch T.V.",
+            "location": "Home",
+            "category": false
+        },
+        {
+            "completion": true,
+            "cost": 50,
+            "inOrOut": true,
+            "name": "Have dinner",
+            "location": "Joe Fortes",
+            "category": false
+        }
+    ],
+    "completed": [
+        {
+            "completion": true,
+            "cost": 0,
+            "inOrOut": true,
+            "name": "Watch T.V.",
+            "location": "Home",
+            "category": false
+        },
+        {
+            "completion": true,
+            "cost": 50,
+            "inOrOut": true,
+            "name": "Have dinner",
+            "location": "Joe Fortes",
+            "category": false
+        }
+    ]
+}
